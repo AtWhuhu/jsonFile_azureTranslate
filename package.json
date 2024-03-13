@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@azure-rest/ai-translation-text": "^1.0.0-beta.1",
+    "dotenv": "^16.4.5",
+    "languagedetect": "^2.0.0"
+  }
+}
